@@ -1,0 +1,13 @@
+names:
+  0: 10_rs
+  1: 20_rs
+  2: 50_rs
+  3: 100_rs
+  4: 200_rs
+  5: 500_rs
+  6: 2000_rs
+  7: Background
+nc: 8
+path: C:\Users\arush warty\OneDrive\Desktop\Python projects\Money-dector-for-the-blind\dataset
+train: images/train
+val: images/val
