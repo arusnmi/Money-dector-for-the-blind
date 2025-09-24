@@ -1,0 +1,36 @@
+# Requirements for Ultralytics YOLO Money Detection System
+
+# Core ML/Computer Vision
+ultralytics
+torch
+torchvision
+opencv-python
+numpy
+Pillow
+
+# Data handling and utilities
+PyYAML
+matplotlib
+scipy
+pandas
+scikit-learn
+
+# GUI (for Kivy app)
+kivy
+kivymd  # Optional for material design
+
+# Development and logging
+tqdm
+pytest  # For testing
+black # Code formatting
+
+# Optional GPU support
+# CUDA toolkit will need to be installed separately for NVIDIA GPUs
+# For Apple Silicon, MPS support is built into PyTorch 2.0+
+
+# Additional utilities
+pathlib2 # For Python < 3.8 compatibility
+typing-extensions
+
+
+pyttsx3
