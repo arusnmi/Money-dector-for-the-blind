@@ -1,0 +1,343 @@
+Date/Time:       2025-09-26 09:46:53 
+Command line:    C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Scripts\briefcase create android
+
+OS Release:      Windows 10
+OS Version:      10.0.26100
+Architecture:    AMD64
+Platform:        Windows-10-10.0.26100-SP0
+
+Python exe:      C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Scripts\python.exe
+Python version:  3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.25
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+	ACSETUPSVCPORT=23210
+	ALLUSERSPROFILE=C:\ProgramData
+	APPDATA=C:\Users\warty\AppData\Roaming
+	BUNDLED_DEBUGPY_PATH=c:\Users\warty\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\libs\debugpy
+	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_17612_CFKCOSDDNBRKDMPU
+	COLORTERM=truecolor
+	COMMONPROGRAMFILES=C:\Program Files\Common Files
+	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+	COMMONPROGRAMW6432=C:\Program Files\Common Files
+	COMPUTERNAME=ARUSH_WARTY
+	COMSPEC=C:\WINDOWS\system32\cmd.exe
+	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+	EFC_19388_1262719628=1
+	EFC_19388_1592913036=1
+	EFC_19388_2283032206=1
+	EFC_19388_2775293581=1
+	EFC_19388_3789132940=1
+	GIT_ASKPASS=********************
+	HOMEDRIVE=C:
+	HOMEPATH=\Users\warty
+	LANG=en_US.UTF-8
+	LOCALAPPDATA=C:\Users\warty\AppData\Local
+	LOGONSERVER=\\ARUSH_WARTY
+	NUMBER_OF_PROCESSORS=12
+	ONEDRIVE=C:\Users\warty\OneDrive
+	ONEDRIVECONSUMER=C:\Users\warty\OneDrive
+	ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+	OS=Windows_NT
+	PATH=C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Scripts;C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\warty\AppData\Local\Microsoft\WindowsApps;C:\Users\warty\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\warty\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\scripts\noConfigScripts;c:\Users\warty\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand
+	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+	PROCESSOR_ARCHITECTURE=AMD64
+	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+	PROCESSOR_LEVEL=6
+	PROCESSOR_REVISION=ba02
+	PROGRAMDATA=C:\ProgramData
+	PROGRAMFILES=C:\Program Files
+	PROGRAMFILES(X86)=C:\Program Files (x86)
+	PROGRAMW6432=C:\Program Files
+	PSMODULEPATH=C:\Users\warty\OneDrive\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	PUBLIC=C:\Users\Public
+	PYDEVD_DISABLE_FILE_VALIDATION=1
+	PYTHONSTARTUP=c:\Users\warty\AppData\Roaming\Code\User\workspaceStorage\1df97a65c048e1a7dd4a6d7531c700cd\ms-python.python\pythonrc.py
+	PYTHON_BASIC_REPL=1
+	RLSSVCPORT=22112
+	SESSIONNAME=Console
+	SYSTEMDRIVE=C:
+	SYSTEMROOT=C:\WINDOWS
+	TEMP=C:\Users\warty\AppData\Local\Temp
+	TERM_PROGRAM=vscode
+	TERM_PROGRAM_VERSION=1.104.2
+	TMP=C:\Users\warty\AppData\Local\Temp
+	USERDOMAIN=ARUSH_WARTY
+	USERDOMAIN_ROAMINGPROFILE=ARUSH_WARTY
+	USERNAME=warty
+	USERPROFILE=C:\Users\warty
+	VIRTUAL_ENV=C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc
+	VIRTUAL_ENV_PROMPT=appc
+	VSCODE_DEBUGPY_ADAPTER_ENDPOINTS=c:\Users\warty\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\.noConfigDebugAdapterEndpoints\endpoint-b6dddcd38f90e082.txt
+	VSCODE_GIT_ASKPASS_EXTRA_ARGS=********************
+	VSCODE_GIT_ASKPASS_MAIN=********************
+	VSCODE_GIT_ASKPASS_NODE=********************
+	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-1afe267d69-sock
+	VSCODE_INJECTION=1
+	VSCODE_PYTHON_AUTOACTIVATE_GUARD=1
+	WINDIR=C:\WINDOWS
+	ZES_ENABLE_SYSMAN=1
+	_OLD_VIRTUAL_PATH=C:\Program Files\Eclipse Adoptium\jdk-17.0.16.8-hotspot\bin;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\warty\AppData\Local\Microsoft\WindowsApps;C:\Users\warty\AppData\Local\Programs\Microsoft VS Code\bin;c:\Users\warty\.vscode\extensions\ms-python.debugpy-2025.10.0-win32-x64\bundled\scripts\noConfigScripts;c:\Users\warty\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand
+
+pyproject.toml:
+# This project was generated with 0.3.25 using template: https://github.com/beeware/briefcase-template @ v0.3.25
+[tool.briefcase]
+project_name = "money"
+bundle = "org.example"
+version = "0.0.1"
+url = "https://example.org/moneydetector"
+license.file = "LICENSE"
+author = "arush_warty"
+author_email = "parush.larty@gmail.com"
+
+[tool.briefcase.app.moneydetector]
+formal_name = "Money Detector"
+description = "idk"
+long_description = """More details about the app should go here.
+"""
+sources = [
+    "src/moneydetector",
+]
+test_sources = [
+    "tests",
+]
+
+requires = [
+    # Add your cross-platform app requirements here
+]
+test_requires = [
+    # Add your cross-platform test requirements here
+]
+
+[tool.briefcase.app.moneydetector.macOS]
+universal_build = true
+requires = [
+    # Add your macOS-specific app requirements here
+]
+
+[tool.briefcase.app.moneydetector.linux]
+requires = [
+    # Add your Linux-specific app requirements here
+]
+
+[tool.briefcase.app.moneydetector.linux.system.debian]
+system_requires = [
+    # Add any system packages needed at build the app here
+]
+
+system_runtime_requires = [
+    # Add any system packages needed at runtime here
+]
+
+[tool.briefcase.app.moneydetector.linux.system.rhel]
+system_requires = [
+    # Add any system packages needed at build the app here
+]
+
+system_runtime_requires = [
+    # Add any system packages needed at runtime here
+]
+
+[tool.briefcase.app.moneydetector.linux.system.suse]
+system_requires = [
+    # Add any system packages needed at build the app here
+]
+
+system_runtime_requires = [
+    # Add any system packages needed at runtime here
+]
+
+[tool.briefcase.app.moneydetector.linux.system.arch]
+system_requires = [
+    # Add any system packages needed at build the app here
+]
+
+system_runtime_requires = [
+    # Add any system packages needed at runtime here
+]
+
+[tool.briefcase.app.moneydetector.linux.flatpak]
+flatpak_runtime = "org.freedesktop.Platform"
+flatpak_runtime_version = "24.08"
+flatpak_sdk = "org.freedesktop.Sdk"
+
+[tool.briefcase.app.moneydetector.windows]
+requires = [
+    # Add your Windows-specific app requirements here
+]
+
+# Mobile deployments
+[tool.briefcase.app.moneydetector.iOS]
+requires = [
+    # Add your iOS-specific app requirements here
+]
+
+[tool.briefcase.app.moneydetector.android]
+requires = [
+    # Add your Android-specific app requirements here
+]
+
+# Web deployments
+[tool.briefcase.app.moneydetector.web]
+requires = [
+    # Add your web-specific app requirements here
+]
+
+Briefcase Log:
+[09:46:50] Using JDK at C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                                java.py:259
+           Using Android SDK at C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                            android_sdk.py:375
+                                                                                                                                                                       create.py:937
+           [moneydetector] Generating application template...                                                                                                          create.py:937
+                                                                                                                                                                       gradle.py:185
+           *************************************************************************                                                                                   gradle.py:185
+           ** WARNING: App does not define build_gradle_dependencies              **                                                                                   gradle.py:185
+           *************************************************************************                                                                                   gradle.py:185
+                                                                                                                                                                       gradle.py:185
+               The Android configuration for this app does not contain a                                                                                               gradle.py:185
+               `build_gradle_dependencies` definition. Briefcase will use a default                                                                                    gradle.py:185
+               value of:                                                                                                                                               gradle.py:185
+                                                                                                                                                                       gradle.py:185
+                   build_gradle_dependencies = [                                                                                                                       gradle.py:185
+                       "androidx.appcompat:appcompat:1.0.2",                                                                                                           gradle.py:185
+                       "androidx.constraintlayout:constraintlayout:1.1.3",                                                                                             gradle.py:185
+                       "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0",                                                                                         gradle.py:185
+                   ]                                                                                                                                                   gradle.py:185
+                                                                                                                                                                       gradle.py:185
+               You should add this definition to the Android configuration                                                                                             gradle.py:185
+               of your project's pyproject.toml file. See:                                                                                                             gradle.py:185
+                                                                                                                                                                       gradle.py:185
+                   https://briefcase.readthedocs.io/en/stable/reference/platforms/android/gradle.html#build-gradle-dependencies                                        gradle.py:185
+                                                                                                                                                                       gradle.py:185
+               for more information.                                                                                                                                   gradle.py:185
+                                                                                                                                                                       gradle.py:185
+           *************************************************************************                                                                                   gradle.py:185
+                                                                                                                                                                       gradle.py:185
+           Using app template: https://github.com/beeware/briefcase-android-gradle-template.git, branch v0.3.25                                                         base.py:1241
+[09:46:52] Using existing template (sha 1abe20417fa00e959de536295c6bd686c3d0b302, updated Mon Jul 28 09:20:28 2025)                                                     base.py:1146
+                                                                                                                                                                       create.py:952
+           [moneydetector] Installing support package...                                                                                                               create.py:952
+           No support package required.                                                                                                                                create.py:323
+                                                                                                                                                                       create.py:970
+           [moneydetector] Installing application code...                                                                                                              create.py:970
+           Installing src/moneydetector... started                                                                                                                     create.py:734
+           Installing src/moneydetector... errored                                                                                                                     create.py:734
+                                                                                                                                                                      __main__.py:42
+           Application source 'src/moneydetector' does not exist.                                                                                                     __main__.py:43
+           Saving log... started                                                                                                                                      console.py:438
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Lib\site-packages\briefcase\__main__.py:27 in main                                               │
+│                                                                                                                                                                                  │
+│   24 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   25 │   │   │   overrides=overrides,                                                                                                                                            │
+│   26 │   │   )                                                                                                                                                                   │
+│ ❱ 27 │   │   command(**options)                                                                                                                                                  │
+│   28 │   except HelpText as e:                                                                                                                                                   │
+│   29 │   │   console.info()                                                                                                                                                      │
+│   30 │   │   console.info(str(e))                                                                                                                                                │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                        │
+│ │       command = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000021EE09243D0> │                                                                        │
+│ │       console = <briefcase.console.Console object at 0x0000021EDD5AD250>                              │                                                                        │
+│ │             e = MissingAppSources('src/moneydetector')                                                │                                                                        │
+│ │ extra_cmdline = []                                                                                    │                                                                        │
+│ │       options = {}                                                                                    │                                                                        │
+│ │     overrides = {}                                                                                    │                                                                        │
+│ │        result = 200                                                                                   │                                                                        │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                        │
+│                                                                                                                                                                                  │
+│ C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Lib\site-packages\briefcase\commands\create.py:1026 in __call__                                  │
+│                                                                                                                                                                                  │
+│   1023 │   │                                                                                                                                                                     │
+│   1024 │   │   state = None                                                                                                                                                      │
+│   1025 │   │   for _, app_obj in sorted(apps_to_create.items()):                                                                                                                 │
+│ ❱ 1026 │   │   │   state = self.create_app(                                                                                                                                      │
+│   1027 │   │   │   │   app_obj,                                                                                                                                                  │
+│   1028 │   │   │   │   **full_options(state, options),                                                                                                                           │
+│   1029 │   │   │   )                                                                                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ────────────────────────────────────────────────╮                                                                       │
+│ │              _ = 'moneydetector'                                                                       │                                                                       │
+│ │            app = None                                                                                  │                                                                       │
+│ │       app_name = None                                                                                  │                                                                       │
+│ │        app_obj = <org.example.moneydetector v0.0.1 AppConfig>                                          │                                                                       │
+│ │ apps_to_create = {'moneydetector': <org.example.moneydetector v0.0.1 AppConfig>}                       │                                                                       │
+│ │        options = {}                                                                                    │                                                                       │
+│ │           self = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000021EE09243D0> │                                                                       │
+│ │          state = None                                                                                  │                                                                       │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                       │
+│                                                                                                                                                                                  │
+│ C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Lib\site-packages\briefcase\commands\create.py:971 in create_app                                 │
+│                                                                                                                                                                                  │
+│    968 │   │   │   self.verify_app(app)                                                                                                                                          │
+│    969 │   │   │                                                                                                                                                                 │
+│    970 │   │   │   self.console.info("Installing application code...", prefix=app.app_name)                                                                                      │
+│ ❱  971 │   │   │   self.install_app_code(app=app)                                                                                                                                │
+│    972 │   │   │                                                                                                                                                                 │
+│    973 │   │   │   self.console.info("Installing requirements...", prefix=app.app_name)                                                                                          │
+│    974 │   │   │   self.install_app_requirements(app=app)                                                                                                                        │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────────────────╮                                   │
+│ │         app = <org.example.moneydetector v0.0.1 AppConfig>                                                                                 │                                   │
+│ │ bundle_path = WindowsPath('C:/Users/warty/OneDrive/Desktop/Python_projects/Money-dector-for-the-blind/build/moneydetector/android/gradle') │                                   │
+│ │     options = {}                                                                                                                           │                                   │
+│ │        self = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000021EE09243D0>                                        │                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                   │
+│                                                                                                                                                                                  │
+│ C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind\appc\Lib\site-packages\briefcase\commands\create.py:740 in install_app_code                           │
+│                                                                                                                                                                                  │
+│    737 │   │   │   │   │                                                                                                                                                         │
+│    738 │   │   │   │   │   # Install the new copy of the app code.                                                                                                               │
+│    739 │   │   │   │   │   if not original.exists():                                                                                                                             │
+│ ❱  740 │   │   │   │   │   │   raise MissingAppSources(src)                                                                                                                      │
+│    741 │   │   │   │   │   elif original.is_dir():                                                                                                                               │
+│    742 │   │   │   │   │   │   self.tools.shutil.copytree(original, target)                                                                                                      │
+│    743 │   │   │   │   │   else:                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────────────────────────────────╮    │
+│ │      app = <org.example.moneydetector v0.0.1 AppConfig>                                                                                                                   │    │
+│ │ app_path = WindowsPath('C:/Users/warty/OneDrive/Desktop/Python_projects/Money-dector-for-the-blind/build/moneydetector/android/gradle/app/src/main/python')               │    │
+│ │ original = WindowsPath('C:/Users/warty/OneDrive/Desktop/Python_projects/Money-dector-for-the-blind/src/moneydetector')                                                    │    │
+│ │     self = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000021EE09243D0>                                                                          │    │
+│ │  sources = ['src/moneydetector']                                                                                                                                          │    │
+│ │      src = 'src/moneydetector'                                                                                                                                            │    │
+│ │   target = WindowsPath('C:/Users/warty/OneDrive/Desktop/Python_projects/Money-dector-for-the-blind/build/moneydetector/android/gradle/app/src/main/python/moneydetector') │    │
+│ ╰───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯    │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+MissingAppSources: Application source 'src/moneydetector' does not exist.
+           Collecting extra information for log... started                                                                                                            console.py:473
+                                                                                                                                                                      console.py:477
+           Extra information:                                                                                                                                         console.py:478
+                                                                                                                                                                   subprocess.py:838
+           >>> Running Command:                                                                                                                                    subprocess.py:838
+           >>>     'C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\cmdline-tools\19.0\bin\sdkmanager.bat' --list_installed                 subprocess.py:838
+           >>> Working Directory:                                                                                                                                  subprocess.py:838
+           >>>     C:\Users\warty\OneDrive\Desktop\Python_projects\Money-dector-for-the-blind                                                                      subprocess.py:838
+           >>> Environment Overrides:                                                                                                                              subprocess.py:838
+           >>>     ANDROID_HOME=C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                             subprocess.py:838
+           >>>     ANDROID_SDK_ROOT=C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                         subprocess.py:838
+           >>>     JAVA_HOME=C:\Users\warty\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                     subprocess.py:838
+[09:46:53] >>> Command Output:                                                                                                                                     subprocess.py:838
+           >>>     Loading package information...                                                                                                                  subprocess.py:838
+           >>>     Loading local repository...                                                                                                                     subprocess.py:838
+           >>>     [=========                              ] 25% Loading local repository...                                                                       subprocess.py:838
+           >>>     [=========                              ] 25% Fetch remote repository...                                                                        subprocess.py:838
+           >>>     [=======================================] 100% Fetch remote repository...                                                                       subprocess.py:838
+           >>>                                                                                                                                                     subprocess.py:838
+           >>>     Installed packages:                                                                                                                             subprocess.py:838
+           >>>       Path                 | Version | Description                | Location                                                                        subprocess.py:838
+           >>>       -------              | ------- | -------                    | -------                                                                         subprocess.py:838
+           >>>       build-tools;35.0.0   | 35.0.0  | Android SDK Build-Tools 35 | build-tools\35.0.0                                                              subprocess.py:838
+           >>>       emulator             | 36.1.9  | Android Emulator           | emulator                                                                        subprocess.py:838
+           >>>       platform-tools       | 36.0.0  | Android SDK Platform-Tools | platform-tools                                                                  subprocess.py:838
+           >>>       platforms;android-35 | 2       | Android SDK Platform 35    | platforms\android-35                                                            subprocess.py:838
+           >>>                                                                                                                                                     subprocess.py:838
+           >>> Return code: 0                                                                                                                                      subprocess.py:838
+                                                                                                                                                                   subprocess.py:838
+           Collecting extra information for log... done                                                                                                               console.py:473

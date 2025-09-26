@@ -24,8 +24,7 @@ kivymd  # Optional for material design
 tqdm
 pytest  # For testing
 black # Code formatting
-=======
-
+ 
 # Optional GPU support
 # CUDA toolkit will need to be installed separately for NVIDIA GPUs
 # For Apple Silicon, MPS support is built into PyTorch 2.0+
@@ -35,5 +34,5 @@ black # Code formatting
 pathlib2 # For Python < 3.8 compatibility
 typing-extensions
 
-
+briefcase
 pyttsx3

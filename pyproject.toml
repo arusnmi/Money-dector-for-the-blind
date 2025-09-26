@@ -1,0 +1,52 @@
+[build-system]
+requires = ["briefcase>=0.3.16"]
+build-backend = "briefcase"
+
+[tool.briefcase]
+project_name = "Money Detector"
+bundle = "com.moneydetector.app"
+version = "1.0.0"
+url = "https://github.com/yourusername/money-detector"
+license = "MIT"
+author = "Your Name"
+author_email = "your.email@example.com"
+
+[tool.briefcase.app.moneydetector]
+formal_name = "Money Detector"
+description = "AI-powered money detection app for visually impaired users"
+long_description = "Money Detector helps visually impaired users identify Indian currency notes using AI and computer vision."
+
+icon = "icons/icon"
+sources = ["src/moneydetector"]
+
+requires = [
+    "kivy>=2.1.0",
+    "numpy>=1.21.0",
+    "opencv-python>=4.5.0",
+    "onnxruntime>=1.12.0",
+    "pillow>=8.0.0",
+]
+
+[tool.briefcase.app.moneydetector.android]
+requires = [
+    "kivy>=2.1.0",
+    "numpy>=1.21.0",
+    "opencv-python-headless==4.8.1.78",
+    "pillow>=8.0.0",
+]
+
+permission = [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+]
+
+build_gradle_dependencies = [
+    "implementation 'com.microsoft.onnxruntime:onnxruntime-android:1.16.0'",
+]
+
+target_api = 33
+min_api = 24
+orientation = "portrait"
+base_theme = "Theme.AppCompat.Light.NoActionBar"
